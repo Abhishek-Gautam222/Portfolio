@@ -578,7 +578,7 @@ line-height: 1.5;
 .todo-app p b{
    background-color: #D4D4D4;
 }
-.spotify-clone{
+.portfolio-page{
   height: 300px;
   width: 260px;
   /* border: 2px solid black; */
@@ -587,23 +587,23 @@ line-height: 1.5;
   background-color: #D4D4D4;
   box-shadow: 0px 4px 8px gray;
 }
-.spotify-clone:hover{
+.portfolio-page:hover{
   box-shadow: 0px 8px 16px gray;
 }
-.spotify-clone h3{
+.portfolio-page h3{
   text-align: center;
   line-height: 2.7;
   font-size: larger;
   color: blueviolet;
    background-color: #D4D4D4;
 }
-.spotify-clone p{
+.portfolio-page p{
   line-height: 1.5;
   font-size: large;
   font-weight: 500;
   background-color: #D4D4D4;
 }
-.spotify-clone p b{
+.portfolio-page p b{
    background-color: #D4D4D4;
 }
 /* contact */
